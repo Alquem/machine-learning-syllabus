@@ -13,7 +13,8 @@
 - Distribuciones de probabilidad 
 - Análisis de datos mediante inferencia. 
 - A/B testing. 
-- Machine learning y modelización de datos 15. Regresión vs. Clasificación 
+- Machine learning y modelización de datos 
+- Regresión vs. Clasificación 
 - Aprendizaje supervisado vs. No supervisado. 
 - Overfitting 
 - Medidas de rendimiento 
