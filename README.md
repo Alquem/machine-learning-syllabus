@@ -2,13 +2,20 @@
 
 - Introduction to Data Science & AI 
 - Numerical Python (NumPy) - Day 
-- Data Analysis with Pandas - Data Structures 4. Data Analysis with Pandas - Exploratory Analysis 5. Data Analysis with Pandas - Grouping & Merging 6. Data Analysis with Pandas - Handling Missing Data 7. Visualization with Matplotlib and Seaborn 
-- Importación desde diferentes fuentes de datos. 9. Importación de datos estructurados y no estructurados. 10. Estadística descriptiva 
+- Data Analysis with Pandas - Data Structures 
+- Data Analysis with Pandas - Exploratory Analysis 
+- Data Analysis with Pandas - Grouping & Merging 
+- Data Analysis with Pandas - Handling Missing Data 
+- Visualization with Matplotlib and Seaborn 
+- Importación desde diferentes fuentes de datos. 
+- Importación de datos estructurados y no estructurados. 
+- Estadística descriptiva 
 - Distribuciones de probabilidad 
 - Análisis de datos mediante inferencia. 
 - A/B testing. 
 - Machine learning y modelización de datos 15. Regresión vs. Clasificación 
-- Aprendizaje supervisado vs. No supervisado. 17. Overfitting 
+- Aprendizaje supervisado vs. No supervisado. 
+- Overfitting 
 - Medidas de rendimiento 
 - Cross – Validation 
 - Regresión Lineal 
@@ -26,10 +33,12 @@
 - Procesos ETL. 
 - Web scraping 
 - Conexión a API 
-- Tratamiento y exportación a bases de datos. 36. Introduction to Artificial Neural Networks 
+- Tratamiento y exportación a bases de datos. 
+- Introduction to Artificial Neural Networks 
 - Deep Learning 
 - Building a Regression Model 
 - Training Deep Neural Networks 
 - Convolutional Neural Networks 
-- Transfer Learning and Pretraining 42. Desarrollo de APIs 
+- Transfer Learning and Pretraining 
+- Desarrollo de APIs 
 - Deployment en AWS, GCP.
