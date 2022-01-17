@@ -1,1 +1,45 @@
 # ml-syllabus
+
+- Introduction to Data Science & AI 
+- Numerical Python (NumPy) - Day 
+- Data Analysis with Pandas - Data Structures 
+- Data Analysis with Pandas - Exploratory Analysis 
+- Data Analysis with Pandas - Grouping & Merging 
+- Data Analysis with Pandas - Handling Missing Data 
+- Visualization with Matplotlib and Seaborn 
+- Importación desde diferentes fuentes de datos. 
+- Importación de datos estructurados y no estructurados. 
+- Estadística descriptiva 
+- Distribuciones de probabilidad 
+- Análisis de datos mediante inferencia. 
+- A/B testing. 
+- Machine learning y modelización de datos 
+- Regresión vs. Clasificación 
+- Aprendizaje supervisado vs. No supervisado. 
+- Overfitting 
+- Medidas de rendimiento 
+- Cross – Validation 
+- Regresión Lineal 
+- Regresión Logística 
+- Variantes de regresiones 
+- Regression Trees 
+- Classification Trees 
+- K – means. 
+- Hierarchical clustering aglomerativo 
+- Hierarchical clustering divisivo/disruptivo. 
+- Random Forest 
+- K – Nearest Neighbors 
+- Support Vector Machines 
+- Data Scientist vs Data Engineer 
+- Procesos ETL. 
+- Web scraping 
+- Conexión a API 
+- Tratamiento y exportación a bases de datos. 
+- Introduction to Artificial Neural Networks 
+- Deep Learning 
+- Building a Regression Model 
+- Training Deep Neural Networks 
+- Convolutional Neural Networks 
+- Transfer Learning and Pretraining 
+- Desarrollo de APIs 
+- Deployment en AWS, GCP.
