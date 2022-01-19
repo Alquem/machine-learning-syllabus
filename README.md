@@ -1,5 +1,13 @@
 # ml-syllabus
 
+## Instalation:
+
+Install the pip packages before runing your notebooks:
+
+```bash
+pip3 install requirements.txt
+```
+
 - Introduction to Data Science & AI 
 - Numerical Python (NumPy) - Day 
 - Data Analysis with Pandas - Data Structures 
