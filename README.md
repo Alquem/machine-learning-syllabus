@@ -1,45 +1,64 @@
-# ml-syllabus
+## Day to Day
 
-- Introduction to Data Science & AI 
-- Numerical Python (NumPy) - Day 
-- Data Analysis with Pandas - Data Structures 
-- Data Analysis with Pandas - Exploratory Analysis 
-- Data Analysis with Pandas - Grouping & Merging 
-- Data Analysis with Pandas - Handling Missing Data 
-- Visualization with Matplotlib and Seaborn 
-- Importación desde diferentes fuentes de datos. 
-- Importación de datos estructurados y no estructurados. 
-- Estadística descriptiva 
-- Distribuciones de probabilidad 
-- Análisis de datos mediante inferencia. 
-- A/B testing. 
-- Machine learning y modelización de datos 
-- Regresión vs. Clasificación 
-- Aprendizaje supervisado vs. No supervisado. 
-- Overfitting 
-- Medidas de rendimiento 
-- Cross – Validation 
-- Regresión Lineal 
-- Regresión Logística 
-- Variantes de regresiones 
-- Regression Trees 
-- Classification Trees 
-- K – means. 
-- Hierarchical clustering aglomerativo 
-- Hierarchical clustering divisivo/disruptivo. 
-- Random Forest 
-- K – Nearest Neighbors 
-- Support Vector Machines 
-- Data Scientist vs Data Engineer 
-- Procesos ETL. 
-- Web scraping 
-- Conexión a API 
-- Tratamiento y exportación a bases de datos. 
-- Introduction to Artificial Neural Networks 
-- Deep Learning 
-- Building a Regression Model 
-- Training Deep Neural Networks 
-- Convolutional Neural Networks 
-- Transfer Learning and Pretraining 
-- Desarrollo de APIs 
-- Deployment en AWS, GCP.
+    1. Week 1:
+        1. Numpy
+        2. Pandas
+        3. Visualization
+    2. Week 2:
+        1. Probability and statistics: theory and concepts
+        2. A/B Testing.
+        3. ANOVA.
+    3. Week 3:
+        1. Summary and final exercise probability and statistics
+        2. Supervised learning
+        3. Supervised learning
+    4. Week 4:
+        1. Supervised learning
+        2. Time series analysis part I.
+        3. Time series analytis part II.
+    5. Week 5
+        1. Decision trees: regression trees, classification trees.
+        2. Exercise decision trees
+        3. Intro to unsupervised learning.
+    6. Week 6:
+        1. K - means
+        2. Hierarchical clustering.
+        3. Clustering exercise
+    7. Week 7:
+        1. Supervised learning II.
+        2. Supervised learning II.
+        3. Exercise Supervised learning II
+    8. Week 9
+        1. Data: Engineer vs. Data Scientist.
+        2. Web scraping.
+        3. API connections
+    9. Week 10:
+        1. Exercise web scraping and API.
+        2. SQL vs. No SQL: Import and export data
+        3. ETL Process
+    10. Week 11:
+        1. Final exercise ETL Process.
+        2. Intro to artificial neural networks: logistic regression is also a neural network
+        3. Multilayer perceptron
+    11. Week 12
+        1. Deep learning
+        2. Feed forward neural networks.
+        3. Final exercise neural networks
+    12. Week 13
+        1. Recurrent neural networks
+        2. Final exercise deep neural networks
+        3. API Development
+    13. Week 14
+        1. Exercise local deployment
+        2. Convolutional neural networks
+        3. Transfer learning and pretraining
+    14. Week 15
+        1. Cloud solutions for Machine Learning (GPU training)
+        2. Containers: Docker.
+        3. Deploy machine learning models in cloud.
+    15. Week 16
+        1. Final project. 
+        2. Final project. 
+        3. Final project. 
+
+
