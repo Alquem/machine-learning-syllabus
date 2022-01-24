@@ -31,7 +31,7 @@
     8. Week 8
         1. Data: Engineer vs. Data Scientist 📝
         2. Web scraping 📝
-        3. API connections
+        3. API connections 📝
     9. Week 9
         1. Exercise web scraping and API 🤔
         2. SQL vs. No SQL: Import and export data 🤔
@@ -47,11 +47,11 @@
     12. Week 12
         1. Recurrent neural networks 😰
         2. Final exercise deep neural networks 😰
-        3. API Development
+        3. API Development 😰
     13. Week 13
         1. Exercise local deployment 😰
         2. Convolutional neural networks 😰
-        3. Transfer learning and pretraining
+        3. Transfer learning and pretraining 😰
     14. Week 14
         1. Cloud solutions for Machine Learning (GPU training) 😰
         2. Containers: Docker 😰
