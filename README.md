@@ -28,35 +28,39 @@
         1. Supervised learning II 📝
         2. Supervised learning II 📝
         3. Exercise Supervised learning II
-    8. Week 9
+    8. Week 8
         1. Data: Engineer vs. Data Scientist 📝
         2. Web scraping 📝
         3. API connections
-    9. Week 10
+    9. Week 9
         1. Exercise web scraping and API 🤔
         2. SQL vs. No SQL: Import and export data 🤔
         3. ETL Process 🤔
-    10. Week 11
+    10. Week 10
         1. Final exercise ETL Process 🤔
         2. Intro to artificial neural networks: logistic regression is also a neural network 🤔
         3. Multilayer perceptron 🤔
-    11. Week 12
+    11. Week 11
         1. Deep learning 😰
         2. Feed forward neural networks 😰
         3. Final exercise neural networks 😰
-    12. Week 13
+    12. Week 12
         1. Recurrent neural networks 😰
         2. Final exercise deep neural networks 😰
         3. API Development
-    13. Week 14
+    13. Week 13
         1. Exercise local deployment 😰
         2. Convolutional neural networks 😰
         3. Transfer learning and pretraining
-    14. Week 15
+    14. Week 14
         1. Cloud solutions for Machine Learning (GPU training) 😰
         2. Containers: Docker 😰
         3. Deploy machine learning models in cloud 😰
-    15. Week 16
+    15. Week 15
+        1. Final project. 
+        2. Final project. 
+        3. Final project. 
+    16. Week 16
         1. Final project. 
         2. Final project. 
         3. Final project. 
