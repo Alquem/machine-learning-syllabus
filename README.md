@@ -21,9 +21,9 @@
         2. Exercise decision trees 📝
         3. Intro to unsupervised learning 📝
     6. Week 6
-        1. K - means 📝
-        2. Hierarchical clustering 📝
-        3. Clustering exercise 📝
+        1. K - means ✅
+        2. Hierarchical clustering ✅
+        3. Clustering exercise ✅
     7. Week 7
         1. Supervised learning II 📝
         2. Supervised learning II 📝
