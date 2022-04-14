@@ -28,9 +28,33 @@
     6. Week 6
         1. Theory and Implementation of Convolutional Neural Networks (CNNs) in Keras ✅
         2. Theory and Implementation of Well Known CNNs for the Computer Vision (AlexNet, VGG16/19, Resnet50, InceptionV3, etc.) ✅
-        3. 
+        3. Implementation of Advanced Deep Neural Networks in Keras (DNNs)
 
-    2. Week 2
+    7. Week 7
+        1. Introduction to Deep Learning for Natural Language Processing (NLP) ✅
+        2. Implementation of a Supervised Topic Modeling Classifier in Keras ✅
+        3. Introduction to Probability and Statistics for Machine Learning ✅
+
+    8. Week 8
+        1. Implementation of a Computer Vision Garbage Classifier in Keras ✅
+        2. Exploring Convolutions: Untroduction to dilated, transposed and separable convolutions for segmentation, xception and efficient nets ✅
+        3. Data Augmentation with ImageDataGenerator in Keras and other some Regularizations with flow_from_directory ✅
+
+    9. Week 9
+        1. CNNs are not so black-box: See under the hood with the visualization of the internal Feature Maps within the Convolutional Layers
+        2. 
+        
+        Theory and Implementation of Well Known CNNs for the Computer Vision (AlexNet, VGG16/19, Resnet50, InceptionV3, etc.) ✅
+        3. Implementation of Advanced Deep Neural Networks in Keras (DNNs)
+        1. Theory and Implementation of Convolutional Neural Networks (CNNs) in Keras ✅
+        2. Theory and Implementation of Well Known CNNs for the Computer Vision (AlexNet, VGG16/19, Resnet50, InceptionV3, etc.) ✅
+        3. Implementation of Advanced Deep Neural Networks in Keras (DNNs)
+
+
+
+
+
+2. Week 2
         1. Probability and statistics: theory and concepts ✅
         2. A/B Testing ✅
         3. ANOVA ✅
