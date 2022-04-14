@@ -42,13 +42,24 @@
 
     9. Week 9
         1. CNNs are not so black-box: See under the hood with the visualization of the internal Feature Maps within the Convolutional Layers
-        2. 
+        2. Introductin to all the main Probability Mass and Density Functions: Bernoulli, Binomial, Gaussian, etc. 
+        3. Word Embeddings in detail: Gensim Word2Vec, Training of a new Word Embeddings, 
         
-        Theory and Implementation of Well Known CNNs for the Computer Vision (AlexNet, VGG16/19, Resnet50, InceptionV3, etc.) ✅
-        3. Implementation of Advanced Deep Neural Networks in Keras (DNNs)
-        1. Theory and Implementation of Convolutional Neural Networks (CNNs) in Keras ✅
-        2. Theory and Implementation of Well Known CNNs for the Computer Vision (AlexNet, VGG16/19, Resnet50, InceptionV3, etc.) ✅
-        3. Implementation of Advanced Deep Neural Networks in Keras (DNNs)
+    10. Week 10 
+        1. Theory and Implementation of Recurrent Neural Networks: Long Short Term Memories (LSTM), Gated Recurrent Units (GRU) and Bidirectional LSTM
+        2. Theory and Practice of Time Series Forecasting with Deep Neural Networks
+        2. Regression of Uk Land Registry Dataset with Keras and Deep Learning
+        
+    11. Week 11
+        1. 
+        2. 
+        3. 
+        
+    12. Week 12
+        1. 
+        2. 
+        3. 
+        
 
 
 
