@@ -4,6 +4,9 @@
         1. Numpy ✅
         2. Pandas ✅
         3. Visualization ✅
+    
+    2. Week 2
+        
     2. Week 2
         1. Probability and statistics: theory and concepts ✅
         2. A/B Testing ✅
