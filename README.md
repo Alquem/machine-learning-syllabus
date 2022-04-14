@@ -41,24 +41,30 @@
         3. Data Augmentation with ImageDataGenerator in Keras and other some Regularizations with flow_from_directory ✅
 
     9. Week 9
-        1. CNNs are not so black-box: See under the hood with the visualization of the internal Feature Maps within the Convolutional Layers
-        2. Introductin to all the main Probability Mass and Density Functions: Bernoulli, Binomial, Gaussian, etc. 
-        3. Word Embeddings in detail: Gensim Word2Vec, Training of a new Word Embeddings, 
+        1. CNNs are not so black-box: See under the hood with the visualization of the internal Feature Maps within the Convolutional Layers ✅
+        2. Introductin to all the main Probability Mass and Density Functions: Bernoulli, Binomial, Gaussian, etc. ✅
+        3. Word Embeddings in detail: Gensim Word2Vec, Training of a new Word Embeddings ✅
         
     10. Week 10 
-        1. Theory and Implementation of Recurrent Neural Networks: Long Short Term Memories (LSTM), Gated Recurrent Units (GRU) and Bidirectional LSTM
-        2. Theory and Practice of Time Series Forecasting with Deep Neural Networks
-        2. Regression of Uk Land Registry Dataset with Keras and Deep Learning
+        1. Theory and Implementation of Recurrent Neural Networks: Long Short Term Memories (LSTM), Gated Recurrent Units (GRU) and Bidirectional LSTM ✅
+        2. Theory and Practice of Time Series Forecasting with Deep Neural Networks ✅
+        2. Regression of Uk Land Registry Dataset with Keras and Deep Learning ✅
         
     11. Week 11
-        1. 
-        2. 
-        3. 
+        1. Case Study: Deep Learning for the Classification and Segmentation of Satellite Imagery, Implementation with Python/Tensorflow/Keras ✅
+        2. Case Study: Deep Learning for Sentiment Analysis and Colab Implementation ✅
+        3. Introduction to Machine Learning and Description of a Complex Text Classifier in Python/Tensorflow/Keras ✅
         
     12. Week 12
-        1. 
-        2. 
+        1. Installation of Anaconda and use of Conda: creation of virtual envs, use of pip and conda install ✅
+        2. Introduction to Traditional Machine Learning Algorithms: Linear Regression, Logistic Regression and Support Vector Machines ✅
+        3. introduction to Scikit-learn for the Implementation of Machine Learning Models with Scikit-Learn ✅
+        
+    13. Week 13 
+        1. Theory of Decision Trees and Random Forest Models and Implementation with Python/Scikit-Learn ✅
+        2. CAM-GRAD Algorithm for Visualizing Internals Mechanisms of ConvNets ✅
         3. 
+       
         
 
 
