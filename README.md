@@ -2,11 +2,34 @@
 
     1. Week 1
         1. Numpy ✅
-        2. Pandas ✅
-        3. Visualization ✅
+        2. Pandas 1 ✅
+        3. Pandas 2 ✅
     
     2. Week 2
-        
+        1. Numpy Extras ✅
+        2. Pandas Extras ✅
+        3. Introduction to the Visualization of Data ✅
+
+    3. Week 3
+        1. Python Libraries for Visualization: Matplotlib and Seaborn ✅
+        2. Introduction to the Linear Algebra ✅
+        3. Introduction to Deep Learning ✅
+
+    4. Week 4
+        1. Introduction to Keras and Artificial Neural Networks (ANNs) ✅
+        2. Machine Learning Workflow ✅
+        3. Introduction to Multivariate Calculus for Machine Learning ✅
+
+    5. Week 5
+        1. Introduction to Computer vision and Visual Big Data with code in Python/Tensorflow/Keras ✅
+        2. Implementation of a Simple Keras Code of the implementation of Multi-Layer Perceptrons ✅
+        3. Implementation of Multi Layer Perceptron from scratch in Python without Keras ✅
+
+    6. Week 6
+        1. Theory and Implementation of Convolutional Neural Networks (CNNs) in Keras ✅
+        2. Theory and Implementation of Well Known CNNs for the Computer Vision (AlexNet, VGG16/19, Resnet50, InceptionV3, etc.) ✅
+        3. 
+
     2. Week 2
         1. Probability and statistics: theory and concepts ✅
         2. A/B Testing ✅
