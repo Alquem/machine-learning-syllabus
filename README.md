@@ -31,7 +31,7 @@
         3. Implementation of Advanced Deep Neural Networks in Keras (DNNs)
 
     7. Week 7
-        1. Introduction to Deep Learning for Natural Language Processing (NLP) ✅
+        1. Introduction to Deep Learning for Natural Language Processing (NLP) and Textual Big Data ✅
         2. Implementation of a Supervised Topic Modeling Classifier in Keras ✅
         3. Introduction to Probability and Statistics for Machine Learning ✅
 
