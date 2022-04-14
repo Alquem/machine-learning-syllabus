@@ -37,7 +37,7 @@
 
     8. Week 8
         1. Implementation of a Computer Vision Garbage Classifier in Keras ✅
-        2. Exploring Convolutions: Untroduction to dilated, transposed and separable convolutions for segmentation, xception and efficient nets ✅
+        2. Exploring Convolutions: Introduction to dilated, transposed and separable convolutions for segmentation, xception and efficient nets ✅
         3. Data Augmentation with ImageDataGenerator in Keras and other some Regularizations with flow_from_directory ✅
 
     9. Week 9
