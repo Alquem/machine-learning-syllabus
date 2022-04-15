@@ -73,6 +73,9 @@
     15. Week 15
         1. Theory of K-Nearest Neighbours (KNNs) and Implementation of KNNs with Scikit-Learn. ✅
         2. Study of Metrics with Scikit-Learn and Model Persistence with Scikit-Learn. ✅
-        3. Theory of Semantic and Instance Segmentation, U-NET - Convolutional Autoencoder for Image Segmentation: Implementation of UNET in Keras for Aereal Drones  
-           Images Semantic Segmentation. ✅
+        3. Theory of Semantic and Instance Segmentation, U-NET - Convolutional Autoencoder for Image Segmentation: Implementation of UNET in Keras for Aereal Drones            Images Semantic Segmentation. ✅
+           
+     16. Week 16
+        1. Unsupervised Machine Learning with K-Means and PCA and Unsupervised Deep Learning with Autoencoders: Theory and Implementation in Python, Scikit-Learn 
+           and Tensorflow/Keras. ✅
 
