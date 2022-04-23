@@ -79,4 +79,10 @@
      16. Week 16
         1. Unsupervised Machine Learning with K-Means and PCA and Unsupervised Deep Learning with Autoencoders: Theory and Implementation in Python, Scikit-Learn 
            and Tensorflow/Keras. ✅
+        2. Theory of Gradient Boosting and XGBoost ML Algorithms and Scikit-Learn Implementation ✅
+        3. Case Study: Deep Learning for Vehicle License Plates detection. Implementation of Vehicles License Plates Detection Training and Inference backends in  
+           Tensorflow/Keras ✅
+           
+     17. Week 17
+        1. 
 
