@@ -84,5 +84,6 @@
            Tensorflow/Keras ✅
            
      17. Week 17
-        1. 
+        1. Theory of Naive Bayes and Implementation in Scikit-Learn. 
+        2. Introduction to Deep Reinforcement Learning and Markov Decision Process, Implementation in Python of Some Environments with OpenAI Gym 
 
