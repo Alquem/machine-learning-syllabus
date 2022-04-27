@@ -86,4 +86,9 @@
      17. Week 17
         1. Theory of Naive Bayes and Implementation in Scikit-Learn. 
         2. Introduction to Deep Reinforcement Learning and Markov Decision Process, Implementation in Python of Some Environments with OpenAI Gym 
+        3. Deep Q Learning Theory and Implementation of Deep Q Learning for Atari Games
+        
+     18. Week 18
+        1. Decision Trees and Hyperparameters Tuning with GridSearch and RandomSearch
+        2. Case Study: Network Intrusion Detection, Implementation of a Backend  
 
