@@ -198,6 +198,7 @@ class DQN:
             self.main_network.load_weights(model_path+ env_name.lower()+"_deep_q_network.h5")
             print("Atari Deep Q Network Loaded Successfully...")
         else: 
+            print("Pre-trained Deep Q Network not found... training from scratch...")          
             self.main_network = self.build_network()
 
         self.main_network.compile(loss='mse', optimizer=Adam())
@@ -252,7 +253,7 @@ class DQN:
 if random_policy is True: 
   observation = env.reset()
   while True:
-      if OS is not "Linux" or colab_active is True:
+      if OS!="Linux" or colab_active is True:
         env.render()
       action = env.action_space.sample() 
       observation, reward, done, info = env.step(action) 
@@ -274,7 +275,7 @@ for i in range(num_episodes):
     Return = 0
     state = preprocess_state(env.reset())
     for t in range(num_timesteps):
-        if OS is not "Linux" or colab_active is True:
+        if OS!="Linux" or colab_active is True:
           env.render()
         time_step += 1
         if time_step % dqn.update_rate == 0:
