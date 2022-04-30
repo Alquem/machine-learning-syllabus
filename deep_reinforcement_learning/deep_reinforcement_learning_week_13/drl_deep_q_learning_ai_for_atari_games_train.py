@@ -252,7 +252,7 @@ class DQN:
 if random_policy is True: 
   observation = env.reset()
   while True:
-      if OS == "Linux" and colab_active is False:
+      if OS is not "Linux" or colab_active is True:
         env.render()
       action = env.action_space.sample() 
       observation, reward, done, info = env.step(action) 
@@ -274,7 +274,7 @@ for i in range(num_episodes):
     Return = 0
     state = preprocess_state(env.reset())
     for t in range(num_timesteps):
-        if OS == "Linux" and colab_active is False:
+        if OS is not "Linux" or colab_active is True:
           env.render()
         time_step += 1
         if time_step % dqn.update_rate == 0:
