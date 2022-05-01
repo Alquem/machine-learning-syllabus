@@ -252,13 +252,18 @@ class DQN:
 
 if random_policy is True: 
   observation = env.reset()
+  Return = 0
   while True:
       if OS!="Linux" or colab_active is True:
         env.render()
       action = env.action_space.sample() 
       observation, reward, done, info = env.step(action) 
+      Return += reward
+
       if done: 
+        print('Return', Return)
         break;
+
   env.close()
   if colab_active is True: 
     show_video()
