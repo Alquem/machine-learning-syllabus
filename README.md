@@ -93,5 +93,9 @@
         2. Case Study: Network Intrusion Detection, Implementation of a Backend. ✅
         3. Introduction to PyTorch: Tensors, Datasets and Pretrained Models ✅
         
+     19. Week 19
+        1. Case Study: Brain Tumor Classifier
+        2. Introduction to Generative Adversarial Networks (GAN) 
+        
         
 
