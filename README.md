@@ -95,7 +95,7 @@
         
      19. Week 19
         1. Case Study: Brain Tumor Classifier ✅
-        2. Introduction to Generative Adversarial Networks (GAN) ✅
+        2. Introduction to Generative Adversarial Networks (GANs) ✅
         
         
 
