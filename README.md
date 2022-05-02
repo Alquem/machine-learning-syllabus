@@ -91,4 +91,7 @@
      18. Week 18
         1. Decision Trees and Hyperparameters Tuning with GridSearch and RandomSearch. ✅
         2. Case Study: Network Intrusion Detection, Implementation of a Backend. ✅
+        3. Introduction to PyTorch: Tensors, Datasets and Pretrained Models ✅
+        
+        
 
