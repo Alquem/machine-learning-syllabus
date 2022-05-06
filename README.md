@@ -96,6 +96,9 @@
      19. Week 19
         1. Case Study: Brain Tumor Classifier ✅
         2. Introduction to Generative Adversarial Networks (GANs) ✅
+        3. Case Study: Brain Tumor Segmentation ✅
         
+     20. Week 20
+        1. Time-Series Prediction with Deep Learning: Theory and Implementation 
         
 
