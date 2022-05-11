@@ -73,11 +73,11 @@
     15. Week 15
         1. Theory of K-Nearest Neighbours (KNNs) and Implementation of KNNs with Scikit-Learn. ✅
         2. Study of Metrics with Scikit-Learn and Model Persistence with Scikit-Learn. ✅
-        3. Theory of Semantic and Instance Segmentation, U-NET - Convolutional Autoencoder for Image Segmentation: Implementation of UNET in Keras for Aereal Drones            
+        3. Theory of Semantic and Instance Segmentation, U-NET - Convolutional Autoencoder for Image Segmentation: Implementation of UNET in Keras for Aereal Drones.           
            Images Semantic Segmentation. ✅
            
      16. Week 16
-        1. Unsupervised Machine Learning with K-Means and PCA and Unsupervised Deep Learning with Autoencoders: Theory and Implementation in Python, Scikit-Learn 
+        1. Unsupervised Machine Learning with K-Means and PCA and Unsupervised Deep Learning with Autoencoders: Theory and Implementation in Python, Scikit-Learn.
            and Tensorflow/Keras. ✅
         2. Theory of Gradient Boosting and XGBoost ML Algorithms and Scikit-Learn Implementation. ✅
         3. Case Study: Deep Learning for Vehicle License Plates detection. Implementation of Vehicles License Plates Detection Training and Inference backends in  
@@ -91,14 +91,16 @@
      18. Week 18
         1. Decision Trees and Hyperparameters Tuning with GridSearch and RandomSearch. ✅
         2. Case Study: Network Intrusion Detection, Implementation of a Backend. ✅
-        3. Introduction to PyTorch: Tensors, Datasets and Pretrained Models ✅
+        3. Introduction to PyTorch: Tensors, Datasets and Pretrained Models. ✅
         
      19. Week 19
-        1. Case Study: Brain Tumor Classifier ✅
-        2. Introduction to Generative Adversarial Networks (GANs) ✅
-        3. Case Study: Brain Tumor Segmentation ✅
+        1. Case Study: Brain Tumor Classifier. ✅
+        2. Introduction to Generative Adversarial Networks (GANs). ✅
+        3. Case Study: Brain Tumor Segmentation. ✅
         
      20. Week 20
-        1. Time-Series Prediction with Deep Learning: Theory and Implementation 
+        1. Time-Series Prediction with Deep Learning: Theory and Implementation. ✅
+        2. Generative Adversarial Netwokrs for Synthetic Data Generation. ✅
+        3. Introduction to Pytorch: Softmax, NN Modules, Training MLP Models and Training ConvNets. ✅
         
 
