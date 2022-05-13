@@ -1,0 +1,207 @@
+/IstatDL/Users/pugliese/gan_sdgym_istat_synt_challenge.py:143: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if dataset is 'satgpa':
+/IstatDL/Users/pugliese/gan_sdgym_istat_synt_challenge.py:149: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  elif dataset is 'acs':
+/IstatDL/Users/pugliese/gan_sdgym_istat_synt_challenge.py:157: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  elif dataset is 'telephony':
+Requirement already satisfied: gdown in /D1000/anaconda3/envs/stage/lib/python3.9/site-packages (4.4.0)
+Requirement already satisfied: tqdm in /home/pugliese/.local/lib/python3.9/site-packages (from gdown) (4.62.3)
+Requirement already satisfied: six in /home/pugliese/.local/lib/python3.9/site-packages (from gdown) (1.16.0)
+Requirement already satisfied: beautifulsoup4 in /home/pugliese/.local/lib/python3.9/site-packages (from gdown) (4.10.0)
+Requirement already satisfied: filelock in /home/pugliese/.local/lib/python3.9/site-packages (from gdown) (3.4.2)
+Requirement already satisfied: requests[socks] in /home/pugliese/.local/lib/python3.9/site-packages (from gdown) (2.27.1)
+Requirement already satisfied: soupsieve>1.2 in /home/pugliese/.local/lib/python3.9/site-packages (from beautifulsoup4->gdown) (2.3.1)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /home/pugliese/.local/lib/python3.9/site-packages (from requests[socks]->gdown) (1.26.8)
+Requirement already satisfied: certifi>=2017.4.17 in /D1000/anaconda3/envs/stage/lib/python3.9/site-packages (from requests[socks]->gdown) (2021.10.8)
+Requirement already satisfied: idna<4,>=2.5 in /home/pugliese/.local/lib/python3.9/site-packages (from requests[socks]->gdown) (3.3)
+Requirement already satisfied: charset-normalizer~=2.0.0 in /home/pugliese/.local/lib/python3.9/site-packages (from requests[socks]->gdown) (2.0.10)
+Requirement already satisfied: PySocks!=1.5.7,>=1.5.6 in /home/pugliese/.local/lib/python3.9/site-packages (from requests[socks]->gdown) (1.7.1)
+Requirement already satisfied: sdgym in /D1000/anaconda3/envs/stage/lib/python3.9/site-packages (0.5.0)
+Requirement already satisfied: humanfriendly<11,>=8.2 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (10.0)
+Requirement already satisfied: scikit-learn<2,>=0.24 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (0.24.2)
+Requirement already satisfied: sdmetrics<0.5,>=0.4.1 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (0.4.1)
+Requirement already satisfied: tqdm<5,>=4.15 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (4.62.3)
+Requirement already satisfied: sdv>=0.13.0 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (0.13.1)
+Requirement already satisfied: pomegranate<0.15,>=0.14.1 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (0.14.7)
+Requirement already satisfied: compress-pickle<3,>=1.2.0 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (2.1.0)
+Requirement already satisfied: botocore<2,>=1.18 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (1.23.44)
+Requirement already satisfied: psutil<6,>=5.7 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (5.9.0)
+Requirement already satisfied: appdirs<2,>=1.3 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (1.4.4)
+Requirement already satisfied: XlsxWriter<4,>=1.2.8 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (3.0.2)
+Requirement already satisfied: boto3<2,>=1.15.0 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (1.20.44)
+Requirement already satisfied: scipy<2,>=1.5.4 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (1.7.3)
+Requirement already satisfied: rdt<0.7,>=0.6.1 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (0.6.2)
+Requirement already satisfied: numpy<2,>=1.20.0 in /D1000/anaconda3/envs/stage/lib/python3.9/site-packages (from sdgym) (1.22.3)
+Requirement already satisfied: tabulate<0.9,>=0.8.3 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (0.8.9)
+Requirement already satisfied: torch<2,>=1.8.0 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (1.8.1+cu101)
+Requirement already satisfied: pandas<2,>=1.1.3 in /home/pugliese/.local/lib/python3.9/site-packages (from sdgym) (1.4.0)
+Requirement already satisfied: s3transfer<0.6.0,>=0.5.0 in /home/pugliese/.local/lib/python3.9/site-packages (from boto3<2,>=1.15.0->sdgym) (0.5.0)
+Requirement already satisfied: jmespath<1.0.0,>=0.7.1 in /home/pugliese/.local/lib/python3.9/site-packages (from boto3<2,>=1.15.0->sdgym) (0.10.0)
+Requirement already satisfied: python-dateutil<3.0.0,>=2.1 in /home/pugliese/.local/lib/python3.9/site-packages (from botocore<2,>=1.18->sdgym) (2.8.2)
+Requirement already satisfied: urllib3<1.27,>=1.25.4 in /home/pugliese/.local/lib/python3.9/site-packages (from botocore<2,>=1.18->sdgym) (1.26.8)
+Requirement already satisfied: pytz>=2020.1 in /home/pugliese/.local/lib/python3.9/site-packages (from pandas<2,>=1.1.3->sdgym) (2021.3)
+Requirement already satisfied: networkx>=2.4 in /home/pugliese/.local/lib/python3.9/site-packages (from pomegranate<0.15,>=0.14.1->sdgym) (2.6.3)
+Requirement already satisfied: pyyaml in /home/pugliese/.local/lib/python3.9/site-packages (from pomegranate<0.15,>=0.14.1->sdgym) (5.4.1)
+Requirement already satisfied: joblib>=0.9.0b4 in /home/pugliese/.local/lib/python3.9/site-packages (from pomegranate<0.15,>=0.14.1->sdgym) (1.1.0)
+Requirement already satisfied: six>=1.5 in /home/pugliese/.local/lib/python3.9/site-packages (from python-dateutil<3.0.0,>=2.1->botocore<2,>=1.18->sdgym) (1.16.0)
+Requirement already satisfied: threadpoolctl>=2.0.0 in /home/pugliese/.local/lib/python3.9/site-packages (from scikit-learn<2,>=0.24->sdgym) (3.0.0)
+Requirement already satisfied: pyts<0.13.0,>=0.12.0 in /home/pugliese/.local/lib/python3.9/site-packages (from sdmetrics<0.5,>=0.4.1->sdgym) (0.12.0)
+Requirement already satisfied: copulas<0.7,>=0.6.0 in /home/pugliese/.local/lib/python3.9/site-packages (from sdmetrics<0.5,>=0.4.1->sdgym) (0.6.0)
+Requirement already satisfied: matplotlib<4,>=3.2.0 in /home/pugliese/.local/lib/python3.9/site-packages (from copulas<0.7,>=0.6.0->sdmetrics<0.5,>=0.4.1->sdgym) (3.5.1)
+Requirement already satisfied: packaging>=20.0 in /home/pugliese/.local/lib/python3.9/site-packages (from matplotlib<4,>=3.2.0->copulas<0.7,>=0.6.0->sdmetrics<0.5,>=0.4.1->sdgym) (21.3)
+Requirement already satisfied: fonttools>=4.22.0 in /home/pugliese/.local/lib/python3.9/site-packages (from matplotlib<4,>=3.2.0->copulas<0.7,>=0.6.0->sdmetrics<0.5,>=0.4.1->sdgym) (4.29.0)
+Requirement already satisfied: cycler>=0.10 in /home/pugliese/.local/lib/python3.9/site-packages (from matplotlib<4,>=3.2.0->copulas<0.7,>=0.6.0->sdmetrics<0.5,>=0.4.1->sdgym) (0.11.0)
+Requirement already satisfied: pillow>=6.2.0 in /home/pugliese/.local/lib/python3.9/site-packages (from matplotlib<4,>=3.2.0->copulas<0.7,>=0.6.0->sdmetrics<0.5,>=0.4.1->sdgym) (9.0.0)
+Requirement already satisfied: kiwisolver>=1.0.1 in /home/pugliese/.local/lib/python3.9/site-packages (from matplotlib<4,>=3.2.0->copulas<0.7,>=0.6.0->sdmetrics<0.5,>=0.4.1->sdgym) (1.3.2)
+Requirement already satisfied: pyparsing>=2.2.1 in /home/pugliese/.local/lib/python3.9/site-packages (from matplotlib<4,>=3.2.0->copulas<0.7,>=0.6.0->sdmetrics<0.5,>=0.4.1->sdgym) (3.0.7)
+Requirement already satisfied: numba>=0.48.0 in /D1000/anaconda3/envs/stage/lib/python3.9/site-packages (from pyts<0.13.0,>=0.12.0->sdmetrics<0.5,>=0.4.1->sdgym) (0.53.0)
+Requirement already satisfied: setuptools in /D1000/anaconda3/envs/stage/lib/python3.9/site-packages (from numba>=0.48.0->pyts<0.13.0,>=0.12.0->sdmetrics<0.5,>=0.4.1->sdgym) (62.1.0)
+Requirement already satisfied: llvmlite<0.37,>=0.36.0rc1 in /D1000/anaconda3/envs/stage/lib/python3.9/site-packages (from numba>=0.48.0->pyts<0.13.0,>=0.12.0->sdmetrics<0.5,>=0.4.1->sdgym) (0.36.0)
+Requirement already satisfied: Faker<10,>=3.0.0 in /home/pugliese/.local/lib/python3.9/site-packages (from sdv>=0.13.0->sdgym) (9.9.1)
+Requirement already satisfied: ctgan<0.6,>=0.5.0 in /home/pugliese/.local/lib/python3.9/site-packages (from sdv>=0.13.0->sdgym) (0.5.0)
+Requirement already satisfied: deepecho<0.4,>=0.3.0.post1 in /home/pugliese/.local/lib/python3.9/site-packages (from sdv>=0.13.0->sdgym) (0.3.0.post1)
+Requirement already satisfied: graphviz<1,>=0.13.2 in /home/pugliese/.local/lib/python3.9/site-packages (from sdv>=0.13.0->sdgym) (0.19.1)
+Requirement already satisfied: torchvision<1,>=0.9.0 in /home/pugliese/.local/lib/python3.9/site-packages (from ctgan<0.6,>=0.5.0->sdv>=0.13.0->sdgym) (0.9.1+cu101)
+Requirement already satisfied: text-unidecode==1.3 in /home/pugliese/.local/lib/python3.9/site-packages (from Faker<10,>=3.0.0->sdv>=0.13.0->sdgym) (1.3)
+Requirement already satisfied: typing-extensions in /home/pugliese/.local/lib/python3.9/site-packages (from torch<2,>=1.8.0->sdgym) (4.0.1)
+Requirement already satisfied: pandas in /home/pugliese/.local/lib/python3.9/site-packages (1.4.0)
+Requirement already satisfied: python-dateutil>=2.8.1 in /home/pugliese/.local/lib/python3.9/site-packages (from pandas) (2.8.2)
+Requirement already satisfied: numpy>=1.18.5 in /D1000/anaconda3/envs/stage/lib/python3.9/site-packages (from pandas) (1.22.3)
+Requirement already satisfied: pytz>=2020.1 in /home/pugliese/.local/lib/python3.9/site-packages (from pandas) (2021.3)
+Requirement already satisfied: six>=1.5 in /home/pugliese/.local/lib/python3.9/site-packages (from python-dateutil>=2.8.1->pandas) (1.16.0)
+Collecting matplotlib==3.1.3
+  Using cached matplotlib-3.1.3.tar.gz (40.9 MB)
+ERROR: Could not install packages due to an OSError: [Errno 28] No space left on device
+
+/home/pugliese/.local/lib/python3.9/site-packages/scipy/stats/_continuous_distns.py:5320: RuntimeWarning: divide by zero encountered in true_divide
+  return c**2 / (c**2 - n**2)
+/home/pugliese/.local/lib/python3.9/site-packages/scipy/stats/_distn_infrastructure.py:2606: RuntimeWarning: invalid value encountered in double_scalars
+  Lhat = muhat - Shat*mu
+/home/pugliese/.local/lib/python3.9/site-packages/scipy/stats/_continuous_distns.py:639: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+/home/pugliese/.local/lib/python3.9/site-packages/scipy/stats/_continuous_distns.py:5320: RuntimeWarning: divide by zero encountered in true_divide
+  return c**2 / (c**2 - n**2)
+/home/pugliese/.local/lib/python3.9/site-packages/scipy/stats/_distn_infrastructure.py:2606: RuntimeWarning: invalid value encountered in double_scalars
+  Lhat = muhat - Shat*mu
+/home/pugliese/.local/lib/python3.9/site-packages/scipy/stats/_continuous_distns.py:5311: RuntimeWarning: divide by zero encountered in power
+  return cd2*x**(c-1)
+/home/pugliese/.local/lib/python3.9/site-packages/sklearn/mixture/_base.py:265: ConvergenceWarning: Initialization 1 did not converge. Try different init parameters, or increase max_iter, tol or check for degenerate data.
+  warnings.warn('Initialization %d did not converge. '
+/home/pugliese/.local/lib/python3.9/site-packages/sklearn/mixture/_base.py:265: ConvergenceWarning: Initialization 1 did not converge. Try different init parameters, or increase max_iter, tol or check for degenerate data.
+  warnings.warn('Initialization %d did not converge. '
+/home/pugliese/.local/lib/python3.9/site-packages/sklearn/mixture/_base.py:265: ConvergenceWarning: Initialization 1 did not converge. Try different init parameters, or increase max_iter, tol or check for degenerate data.
+  warnings.warn('Initialization %d did not converge. '
+/home/pugliese/.local/lib/python3.9/site-packages/sklearn/mixture/_base.py:265: ConvergenceWarning: Initialization 1 did not converge. Try different init parameters, or increase max_iter, tol or check for degenerate data.
+  warnings.warn('Initialization %d did not converge. '
+Colab Active:  False
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10000 entries, 0 to 9999
+Data columns (total 4 columns):
+ #   Column                Non-Null Count  Dtype  
+---  ------                --------------  -----  
+ 0   CHIAVE_NUM_CHIAMANTE  10000 non-null  float64
+ 1   DATA_CHIAMATA         10000 non-null  int64  
+ 2   ORA_MIN_CHIAMATA      10000 non-null  int64  
+ 3   COD_CELLA_CHIAMATA    10000 non-null  int64  
+dtypes: float64(1), int64(3)
+memory usage: 312.6 KB
+
+Head of Data: 
+   CHIAVE_NUM_CHIAMANTE DATA_CHIAMATA    ORA_MIN_CHIAMATA COD_CELLA_CHIAMATA
+0   F14615194667453690    2017-01-22 1900-01-01 15:49:53                 F0
+1   F14615194667453690    2017-01-29 1900-01-01 12:40:34                 F1
+2   F14615194667453690    2017-01-29 1900-01-01 12:41:19                 F1
+3   F14615194667453690    2017-01-22 1900-01-01 15:51:02                 F1
+4   F14615194667453690    2017-01-22 1900-01-01 15:51:38                 F1
+
+Tail of Data: 
+      CHIAVE_NUM_CHIAMANTE DATA_CHIAMATA    ORA_MIN_CHIAMATA COD_CELLA_CHIAMATA
+9995   F14615368752090240    2017-01-12 1900-01-01 12:09:10               F272
+9996   F14615368752090240    2017-02-12 1900-01-01 18:26:01               F272
+9997    F1508338528891430    2017-01-04 1900-01-01 09:26:27               F272
+9998   F14615368752090240    2017-02-10 1900-01-01 15:11:58               F272
+9999   F14615337422429130    2017-01-30 1900-01-01 09:09:03               F272
+
+Shape of Data:  (10000, 4)
+
+Information about Data: 
+
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10000 entries, 0 to 9999
+Data columns (total 4 columns):
+ #   Column                Non-Null Count  Dtype         
+---  ------                --------------  -----         
+ 0   CHIAVE_NUM_CHIAMANTE  10000 non-null  object        
+ 1   DATA_CHIAMATA         10000 non-null  datetime64[ns]
+ 2   ORA_MIN_CHIAMATA      10000 non-null  datetime64[ns]
+ 3   COD_CELLA_CHIAMATA    10000 non-null  object        
+dtypes: datetime64[ns](2), object(2)
+memory usage: 312.6+ KB
+
+Types of Data attributes: 
+
+
+Summary of all numerical fields in the dataset: 
+
+
+Summary of all categorical fields in the dataset: 
+
+
+Loop Through Each Column and Check for nulls: 
+
+CHIAVE_NUM_CHIAMANTE: 0
+DATA_CHIAMATA: 0
+ORA_MIN_CHIAMATA: 0
+COD_CELLA_CHIAMATA: 0
+
+Method:  COPULAGAN
+
+Head of Data: 
+   CHIAVE_NUM_CHIAMANTE DATA_CHIAMATA    ORA_MIN_CHIAMATA COD_CELLA_CHIAMATA
+0   F14616935434220920    2017-01-10 1900-01-01 23:04:37               F644
+1   F14615224339316630    2017-01-29 1900-01-01 10:22:12                F20
+2   F14615286875279600    2017-02-12 1900-01-01 06:43:13                 F8
+3   F14615426104544740    2017-01-16 1900-01-01 14:09:45               F354
+4   F14615342747560270    2017-01-26 1900-01-01 06:57:59               F756
+
+Tail of Data: 
+      CHIAVE_NUM_CHIAMANTE DATA_CHIAMATA    ORA_MIN_CHIAMATA COD_CELLA_CHIAMATA
+9995   F14615220009759520    2017-01-21 1900-01-01 17:17:41               F775
+9996   F14615230806211460    2017-02-08 1900-01-01 11:50:39                F13
+9997   F14615224339316630    2017-02-11 1900-01-01 09:41:02                F18
+9998   F14615286875279600    2017-02-06 1900-01-01 16:59:18                 F0
+9999   F14615388134447370    2017-01-29 1900-01-01 10:15:11                F20
+
+Shape of Data:  (10000, 4)
+
+Information about Data: 
+
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10000 entries, 0 to 9999
+Data columns (total 4 columns):
+ #   Column                Non-Null Count  Dtype         
+---  ------                --------------  -----         
+ 0   CHIAVE_NUM_CHIAMANTE  10000 non-null  object        
+ 1   DATA_CHIAMATA         10000 non-null  datetime64[ns]
+ 2   ORA_MIN_CHIAMATA      10000 non-null  datetime64[ns]
+ 3   COD_CELLA_CHIAMATA    10000 non-null  object        
+dtypes: datetime64[ns](2), object(2)
+memory usage: 312.6+ KB
+
+Types of Data attributes: 
+
+
+Summary of all numerical fields in the dataset: 
+
+
+Summary of all categorical fields in the dataset: 
+
+
+Loop Through Each Column and Check for nulls: 
+
+CHIAVE_NUM_CHIAMANTE: 0
+DATA_CHIAMATA: 0
+ORA_MIN_CHIAMATA: 0
+COD_CELLA_CHIAMATA: 0
+Global Exectution Time:  1723.206636313349
+./telephony_copulagan.pkl
