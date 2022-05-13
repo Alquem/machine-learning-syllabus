@@ -103,4 +103,14 @@
         2. Generative Adversarial Netwokrs for Synthetic Data Generation. ✅
         3. Introduction to Pytorch: Softmax, NN Modules, Training MLP Models and Training ConvNets. ✅
         
+     21. Week 21
+        1.
+        2. 
+        3. 
+        
+     22. Week 22
+        1. 
+        2. 
+        3. 
+        
 
