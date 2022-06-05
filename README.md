@@ -104,13 +104,7 @@
         3. Introduction to Pytorch: Softmax, NN Modules, Training MLP Models and Training ConvNets. ✅
         
      21. Week 21
-        1.
-        2. 
-        3. 
-        
-     22. Week 22
-        1. 
-        2. 
-        3. 
-        
+        1. Time-Series Classification of Smart Devices Accelerometers Data ✅
+        2. Generative models GAN for Synthetic Data Generation ✅
+        3. Sequence-to-Sequence Models: Encoders-Decoders models for Neural Chatbots and Introduction to Transformers and Bert ✅     
 
